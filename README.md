@@ -1,14 +1,8 @@
-<h1 align="left">Welcome! I'm Henrique Rea</h1>
 
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=30&left=true&vCenter=true&width=1000&lines=Greetings,I'm+Henrique+Rea!)](https://github.com/Henrique-Rea)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=30&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Henrique!)](https://github.com/Henrique-Rea)
-###
-###
-
-<p align="left"> - 🔭 I’m working as Dev at Santana de Parnaiba City Hall <br>
-  - 🏠 I live in Brazil <br>
-  - 📚 I'm currently learning Java<br>
-  - ⚡ In my free time I code for my biggest project (Detecta Fire)</p>
+<hr>
 
 ###
 
@@ -28,7 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 </div>
 
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/henrique-lopes-de-souza-rea/" target="_blank">
