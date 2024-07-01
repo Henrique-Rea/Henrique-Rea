@@ -39,17 +39,17 @@
 
 ###
 
-<h3 align="left">   My Stats :</h3>
+<h3 align="left">   My GitHub Stats :</h3>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Henrique-Rea&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="130" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Henrique-Rea&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="100" alt="languages graph" />
 </div>
 
 ###
 
-<h3 align="left">  Some of my projects:</h3>
+<h3 align="left">   Some of my projects :</h3>
 
 
 - [Mix Your PDF](https://github.com/Henrique-Rea/MixerPdf)
