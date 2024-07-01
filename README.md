@@ -3,7 +3,10 @@
 ###
 ###
 
-<p align="left"> - 🔭 I’m working as Dev at Santana de Parnaiba City Hall <br> - 🏠 I live in Brazil <br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I code for my biggest project (Detecta Fire)</p>
+<p align="left"> - 🔭 I’m working as Dev at Santana de Parnaiba City Hall <br>
+  - 🏠 I live in Brazil <br>
+  - 📚 I'm currently learning Java<br>
+  - ⚡ In my free time I code for my biggest project (Detecta Fire)</p>
 
 ###
 
@@ -53,3 +56,4 @@
 
 
 - [Mix Your PDF](https://github.com/Henrique-Rea/MixerPdf)
+- [Organize Mate](https://github.com/Henrique-Rea/OrganizeMate)
