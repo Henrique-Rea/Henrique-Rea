@@ -1,5 +1,7 @@
 <h1 align="left">Welcome! I'm Henrique Rea</h1>
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=30&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Henrique!)](https://github.com/Henrique-Rea)
 ###
 ###
 
