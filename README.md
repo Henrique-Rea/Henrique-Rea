@@ -6,6 +6,10 @@
 
 ###
 
+<p align="left"> - 🔭 I’m working as Dev at Santana de Parnaiba City Hall <br>
+  - 📚 I'm currently learning Java<br>
+  </p>
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -22,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 </div>
 
-
+<br>
 <div align="left">
   <a href="https://www.linkedin.com/in/henrique-lopes-de-souza-rea/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
