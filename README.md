@@ -20,7 +20,7 @@
   </a>
 </p>
 <div>
-<h3 align="left">You can find me here too:</h3>
+<h3 align="left">💬 You can find me here</h3>
 
 <div> 
     <a href="https://www.linkedin.com/in/henrique-lopes-de-souza-rea/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -29,7 +29,7 @@
  
 </div>
  
-<h3 align="left">   My GitHub Stats :</h3>
+<h3 align="left">💡 My GitHub Stats </h3>
 
 ###
 
