@@ -1,6 +1,6 @@
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=30&left=true&vCenter=true&width=1000&lines=Greetings,I'm+Henrique+Rea!)](https://github.com/Henrique-Rea)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=50&left=true&vCenter=true&width=1000&lines=Greetings,I'm+Henrique+Rea!)](https://github.com/Henrique-Rea)
 
 <hr>
 
